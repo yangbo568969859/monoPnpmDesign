@@ -1,0 +1,4 @@
+{
+    "root": true,
+    "extends": ["@mono-ui/eslint-config"]
+}
