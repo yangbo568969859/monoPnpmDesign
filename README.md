@@ -1,0 +1,2 @@
+# monoPnpmDesign
+monorepo + pnpm + design
